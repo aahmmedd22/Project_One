@@ -421,5 +421,6 @@ body {
 .footer span {
     font-weight: bold;
     color: var(--main-color);
+    font-size: 10px;
 }
 /* End Footer */
